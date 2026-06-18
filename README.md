@@ -39,7 +39,7 @@
 
 <table>
 <tr>
-<td valign="middle"><b>Languages & Runtimes</b></td>
+<td valign="middle"><b>Languages</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/Python-2D3436?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/TypeScript-2D3436?style=flat-square&logo=typescript" />
