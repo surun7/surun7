@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="mailto:01human@proton.me"><img src="https://img.shields.io/badge/Email-2D3436?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0009-0543-6894"><img src="https://img.shields.io/badge/ORCID-2D3436?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/surun7"><img src="https://img.shields.io/badge/LinkedIn-2D3436?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
