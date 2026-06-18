@@ -50,7 +50,7 @@
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>ML / AI</b></td>
+<td valign="middle"><b>ML / DL</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/PyTorch-2D3436?style=flat-square&logo=pytorch" />
 <img src="https://img.shields.io/badge/TensorFlow-2D3436?style=flat-square&logo=tensorflow" />
