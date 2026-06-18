@@ -35,31 +35,46 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Runtimes**
-![Python](https://img.shields.io/badge/Python-2D3436?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D3436?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/Go-2D3436?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/Java-2D3436?style=flat-square&logo=openjdk)
-![C](https://img.shields.io/badge/C-2D3436?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/HTML-2D3436?style=flat-square&logo=html5)
-
-**ML / AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-2D3436?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2D3436?style=flat-square&logo=tensorflow)
-![CUDA](https://img.shields.io/badge/CUDA-2D3436?style=flat-square&logo=nvidia)
-![LangChain](https://img.shields.io/badge/LangChain-2D3436?style=flat-square)
-
-**Frontend & Systems**
-![React](https://img.shields.io/badge/React-2D3436?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-2D3436?style=flat-square&logo=node.js)
-![Linux](https://img.shields.io/badge/Linux-2D3436?style=flat-square&logo=linux)
-
-**Agent Dev Tools**
-![Claude Code](https://img.shields.io/badge/Claude_Code-2D3436?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-2D3436?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-2D3436?style=flat-square)
-![Reasonix](https://img.shields.io/badge/Reasonix-2D3436?style=flat-square)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-2D3436?style=flat-square)
+<table>
+<tr>
+<td valign="middle"><b>Languages & Runtimes</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Python-2D3436?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/TypeScript-2D3436?style=flat-square&logo=typescript" />
+<img src="https://img.shields.io/badge/Go-2D3436?style=flat-square&logo=go" />
+<img src="https://img.shields.io/badge/Java-2D3436?style=flat-square&logo=openjdk" />
+<img src="https://img.shields.io/badge/C-2D3436?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/HTML-2D3436?style=flat-square&logo=html5" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>ML / AI</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/PyTorch-2D3436?style=flat-square&logo=pytorch" />
+<img src="https://img.shields.io/badge/TensorFlow-2D3436?style=flat-square&logo=tensorflow" />
+<img src="https://img.shields.io/badge/CUDA-2D3436?style=flat-square&logo=nvidia" />
+<img src="https://img.shields.io/badge/LangChain-2D3436?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Frontend & Systems</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/React-2D3436?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-2D3436?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/Linux-2D3436?style=flat-square&logo=linux" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Agent Dev Tools</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Claude_Code-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/Codex-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/Cursor-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/Reasonix-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenClaw-2D3436?style=flat-square" />
+</td>
+</tr>
+</table>
 
 ---
 
