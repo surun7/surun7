@@ -74,6 +74,7 @@
 <img src="https://img.shields.io/badge/Cursor-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/Reasonix-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/OpenClaw-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/ComfyUI-2D3436?style=flat-square" />
 </td>
 </tr>
 </table>
