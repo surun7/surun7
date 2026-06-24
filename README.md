@@ -18,7 +18,6 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **[talk_forge](https://github.com/surun7/talk_forge)** | Next.js 16, React, TypeScript, Node.js | AI-powered resume builder with real-time PDF generation. |
-| **[muldel](https://github.com/surun7/muldel)** | TypeScript | Open-source AI Agent CLI — autonomous task execution with multi-model orchestration. |
 | **[type_and_talk](https://github.com/surun7/type_and_talk)** | Python | Real-time speech-to-text pipeline with local inference optimization. |
 
 ---
