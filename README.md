@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/surun7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Ex-ByteDance+AI+Agent+Engineer;MSc+@+Macao+Polytechnic+University;Building+AI+systems+that+actually+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Ex-ByteDance+Model+Operations+Specialist;MSc+@+Macao+Polytechnic+University;Building+AI+systems+that+actually+ship" alt="Typing SVG" />
   </a>
 </p>
 
