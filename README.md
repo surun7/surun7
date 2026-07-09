@@ -1,7 +1,7 @@
-<!-- Header -->
+<!-- Header — dynamic typing SVG (keep) -->
 <p align="center">
   <a href="https://github.com/surun7">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Ex-ByteDance+Model+Operations+Specialist;MSc+@+Macao+Polytechnic+University;Building+AI+systems+that+actually+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Ex-ByteDance+Model+Operations+Specialist;MSc+%40+Macao+Polytechnic+University;Building+AI+systems+that+actually+ship" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,28 +9,24 @@
   <a href="mailto:01human@proton.me"><img src="https://img.shields.io/badge/Email-2D3436?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0009-0543-6894"><img src="https://img.shields.io/badge/ORCID-2D3436?style=flat-square&logo=orcid&logoColor=white" /></a>
   <a href="https://linkedin.com/in/surun7"><img src="https://img.shields.io/badge/LinkedIn-2D3436?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/surun7"><img src="https://img.shields.io/badge/GitHub-2D3436?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎯 Active Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[talk_forge](https://github.com/surun7/talk_forge)** | Next.js 16, React, TypeScript, Node.js | AI-powered resume builder with real-time PDF generation. |
-| **[type_and_talk](https://github.com/surun7/type_and_talk)** | Python | Real-time speech-to-text pipeline with local inference optimization. |
+| **[type_and_talk](https://github.com/surun7/type_and_talk)** | Python, PySide6, UIA, faster-whisper, DeepSeek | Windows desktop AI agent — voice/text-driven UI automation with ReAct planning, safety-gated execution, real-time performance monitoring, and a floating GUI overlay. |
+| **[context_vault](https://github.com/surun7/context_vault)** | TypeScript, Bun, SQLite, Ollama, MCP | Local knowledge base with MCP protocol integration — semantic search, auto-summarization, content dedup, file watching, and RAG Q&A via CLI, Web UI, or any MCP host. |
+| **[talk_forge](https://github.com/surun7/talk_forge)** | Next.js 16, React, TypeScript, Tailwind | AI-powered resume builder — real-time PDF generation, live Markdown preview with HTML sanitization, dark/light theme, and multi-language support. |
 
 ---
 
 ## 🧠 Research Interests
 
- - AI Agents
- - LLM
- - Deep Learning
- - Machine Learning
- - Computer Vision
- - RAG
- - Object Detection
+`AI Agents` · `LLMs` · `Deep Learning` · `Machine Learning` · `Computer Vision` · `RAG` · `Object Detection`
 
 ---
 
@@ -38,8 +34,8 @@
 
 <table>
 <tr>
-<td valign="middle"><b>Languages</b></td>
-<td valign="middle">
+<td valign="top" width="130"><b>Languages</b></td>
+<td>
 <img src="https://img.shields.io/badge/Python-2D3436?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/TypeScript-2D3436?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/Go-2D3436?style=flat-square&logo=go" />
@@ -49,8 +45,8 @@
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>ML / DL</b></td>
-<td valign="middle">
+<td valign="top"><b>ML/DL</b></td>
+<td>
 <img src="https://img.shields.io/badge/PyTorch-2D3436?style=flat-square&logo=pytorch" />
 <img src="https://img.shields.io/badge/TensorFlow-2D3436?style=flat-square&logo=tensorflow" />
 <img src="https://img.shields.io/badge/CUDA-2D3436?style=flat-square&logo=nvidia" />
@@ -58,22 +54,33 @@
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>Frontend & Systems</b></td>
-<td valign="middle">
+<td valign="top"><b>Frameworks</b></td>
+<td>
 <img src="https://img.shields.io/badge/React-2D3436?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-2D3436?style=flat-square&logo=next.js" />
 <img src="https://img.shields.io/badge/Node.js-2D3436?style=flat-square&logo=node.js" />
-<img src="https://img.shields.io/badge/Linux-2D3436?style=flat-square&logo=linux" />
+<img src="https://img.shields.io/badge/PySide6-2D3436?style=flat-square&logo=qt" />
+<img src="https://img.shields.io/badge/Bun-2D3436?style=flat-square&logo=bun" />
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>Agent Dev Tools</b></td>
-<td valign="middle">
+<td valign="top"><b>Agent Tools</b></td>
+<td>
 <img src="https://img.shields.io/badge/Claude_Code-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/Codex-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/Cursor-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/Reasonix-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/OpenClaw-2D3436?style=flat-square" />
 <img src="https://img.shields.io/badge/ComfyUI-2D3436?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-2D3436?style=flat-square&logo=linux" />
+<img src="https://img.shields.io/badge/SQLite-2D3436?style=flat-square&logo=sqlite" />
+<img src="https://img.shields.io/badge/Ollama-2D3436?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-2D3436?style=flat-square" />
 </td>
 </tr>
 </table>
