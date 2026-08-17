@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="200" viewBox="0 0 520 200" role="img" aria-label="Terminal showing active projects">
+  <rect width="520" height="200" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <circle cx="24" cy="26" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="26" r="6" fill="#FFBD2E"/>
+  <circle cx="72" cy="26" r="6" fill="#27C93F"/>
+  <text x="24" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#00D4AA">$ </text>
+  <text x="52" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#C9D1D9" opacity="0">
+    <tspan>story_fork — AI diverges, you decide</tspan>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.28;0.32;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="52" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#C9D1D9" opacity="0">
+    <tspan>type_and_talk — agent: online</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32;0.36;0.62;0.66;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="52" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#C9D1D9" opacity="0">
+    <tspan>context_vault — vault: synced</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64;0.68;0.94;0.98;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="24" y="124" font-family="'JetBrains Mono',monospace" font-size="15" fill="#3FB950">✓ build --ship</text>
+  <rect x="150" y="112" width="9" height="15" fill="#00D4AA">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

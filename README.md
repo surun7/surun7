@@ -135,6 +135,14 @@
   <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurun7&query=public_repos&style=flat-square&labelColor=2D3436&color=00D4AA&label=Repos&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surun7/surun7/main/assets/terminal.svg" alt="Terminal" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surun7/surun7/main/assets/divider.svg" alt="Divider" />
+</p>
+
 ---
 
 <p align="center">
