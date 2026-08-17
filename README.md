@@ -130,9 +130,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Followers" />
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Total%20Stars" />
-  <img alt="Forks" src="https://img.shields.io/github/forks/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Forks" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Followers&logo=github&logoColor=white" />
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Total%20Stars&logo=github&logoColor=white" />
+  <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsurun7&query=public_repos&style=flat-square&labelColor=2D3436&color=00D4AA&label=Repos&logo=github&logoColor=white" />
 </p>
 
 ---
