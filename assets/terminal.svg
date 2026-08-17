@@ -5,7 +5,7 @@
   <circle cx="72" cy="26" r="6" fill="#27C93F"/>
   <text x="24" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#00D4AA">$ </text>
   <text x="52" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#C9D1D9" opacity="0">
-    <tspan>story_fork — AI diverges, you decide</tspan>
+    <tspan>story_fork — 5 tones · coin of fate · stats</tspan>
     <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.28;0.32;1" dur="9s" repeatCount="indefinite"/>
   </text>
   <text x="52" y="92" font-family="'JetBrains Mono',monospace" font-size="15" fill="#C9D1D9" opacity="0">
