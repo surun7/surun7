@@ -130,12 +130,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=surun7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&icon_color=00D4AA&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surun7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&hide=html,css,jupyter%20notebook" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surun7&theme=dark&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Followers" />
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Total%20Stars" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/surun7?style=flat-square&labelColor=2D3436&color=00D4AA&label=Forks" />
 </p>
 
 ---
