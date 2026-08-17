@@ -18,6 +18,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| **[story_fork](https://github.com/surun7/story_fork)** | Next.js 14, React, TypeScript, Tailwind CSS, DeepSeek | AI-assisted branching story co-creation — pick from 3 plot directions each round, grow a rewindable story tree, and export the result to Markdown. AI diverges, you decide. |
 | **[type_and_talk](https://github.com/surun7/type_and_talk)** | Python, PySide6, UIA, faster-whisper, DeepSeek | Windows desktop AI agent — voice/text-driven UI automation with ReAct planning, safety-gated execution, real-time performance monitoring, and a floating GUI overlay. |
 | **[context_vault](https://github.com/surun7/context_vault)** | TypeScript, Bun, SQLite, Ollama, MCP | Local knowledge base with MCP protocol integration — semantic search, auto-summarization, content dedup, file watching, and RAG Q&A via CLI, Web UI, or any MCP host. |
 | **[talk_forge](https://github.com/surun7/talk_forge)** | Next.js 16, React, TypeScript, Tailwind | AI-powered resume builder — real-time PDF generation, live Markdown preview with HTML sanitization, dark/light theme, and multi-language support. |
@@ -61,6 +62,7 @@
 <img src="https://img.shields.io/badge/Node.js-2D3436?style=flat-square&logo=node.js" />
 <img src="https://img.shields.io/badge/PySide6-2D3436?style=flat-square&logo=qt" />
 <img src="https://img.shields.io/badge/Bun-2D3436?style=flat-square&logo=bun" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-2D3436?style=flat-square&logo=tailwindcss" />
 </td>
 </tr>
 <tr>
